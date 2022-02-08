@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KarlaNunes&color=dark" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KarlaNunes&color=blue" alt="Profile views" /> </p>
 
 - 💻 I’m currently studing at IFRN
 - 🚀 I’m currently learning HTML, CSS and JavaScript
