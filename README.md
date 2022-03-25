@@ -5,7 +5,7 @@
 
 - 🛠 I’m currently learning **HTML, CSS and JavaScript**
 
-- 🚀 Trying to be 1% better constantly
+- 🚀 Constantly trying to be 1% better
 
 <br>
 
