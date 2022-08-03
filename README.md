@@ -1,5 +1,4 @@
-<h1 align="left"> Hi there 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KarlaNunes&color=blueviolet" alt="Profile views" /> </p>
+<h1 align="left"> Hi there! 👋</h1>
 
 - 💻 I'm a graduate in System Analysis and Development
 
