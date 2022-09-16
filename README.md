@@ -1,12 +1,24 @@
-<h1 align="left"> Hi there! 👋</h1>
+# Hi there! I'm Karla 👋
 
-- 💻 I'm a graduate in System Analysis and Development
+- 🎓 I'm currently studying Systems Analisys and development at IFRN
+- 💻 I'm on track for learning more about Front End web development with NextJS
+- 🌱 I'm a fellow at NADIC IFRN
+- 🚀 I'm constantly trying to improve my skills and learning something new
+- ⚡ Fun fact: I'm a Harry Potter fan
 
-- 🛠 I’m currently learning **NextJS**
+## 🛠 &nbsp;Tech Stack
 
-- 🚀 Constantly trying to be 1% better
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
 
-<br>
+## ⚙️  GitHub Analytics
 
 <div>
   <a href="https://github.com/sauloveigr">
@@ -15,26 +27,18 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaNunes&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
-## 🛠 &nbsp;Tech Stack
+## Find me on
+  
+  <p align='left'>
+   <a target="_blank" href="https://www.linkedin.com/in/karla-nunes-2873381a0/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a target="_blank" href="mailto:karla.julyana1@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-
-</div>
-
-##
-
-<div> 
+<!-- <div> 
    <a target="_blank" href="https://www.linkedin.com/in/karla-nunes-2873381a0/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <div>
-
-</p>
+ -->
 
 <!--
 - 💻 I’m currently studing at IFRN
