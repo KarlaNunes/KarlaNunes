@@ -2,7 +2,6 @@
 
 - 🎓 I'm currently studying Systems Analisys and development at IFRN
 - 💻 I'm on track for learning more about Front End web development with NextJS
-- 🌱 I'm a member of NADIC IFRN
 - 🚀 I'm constantly trying to improve my skills and learning something new
 - ⚡ Fun fact: I'm a Harry Potter fan
 
