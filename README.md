@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on [SolarZ](https://www.solarz.com.br/)
 - 🌱 I’m currently learning **Backend development with Spring Boot**
 - 💬 Ask me about **Software testing** or  **Microservices architecture**
-- 📫 How to reach me **karla.julyana1@gmail.com**
-- ⚡ Fun fact **I love playing ukulele**
+- 📫 How to reach me: **karla.julyana1@gmail.com**
+- ⚡ Fun fact: **I love playing ukulele**
 
 <!--## 🛠 &nbsp;Languages and tools-->
 ### Languages and tools
