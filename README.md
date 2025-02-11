@@ -2,9 +2,8 @@
 
 <p>I'm currently pursuing a degree in System Analysis and Development, with over a year of experience in end-to-end test automation using Cypress. I'm passionate about front-end development and really enjoy working with React.js, where I’ve gained some hands-on experience. At the moment, I'm diving deeper into Spring Boot to expand my back-end development skills with the goal of becoming a well-rounded full-stack developer.</p>
 
-- 🔭 I’m currently working on [SolarZ](https://www.solarz.com.br/)
 - 🌱 I’m currently learning **Backend development with Spring Boot**
-- 💬 Ask me about **Software testing** or  **Microservices architecture**
+- 💬 Ask me about **Software testing** or  **Spring Boot**
 - 📫 How to reach me: **karla.julyana1@gmail.com**
 - ⚡ Fun fact: **I love playing ukulele**
 
