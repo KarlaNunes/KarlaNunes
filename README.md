@@ -1,9 +1,9 @@
 ## Hi there! I'm Karla 👋
 
-<p>I'm currently pursuing a degree in System Analysis and Development, with over a year of experience in end-to-end test automation using Cypress. I'm passionate about front-end development and really enjoy working with React.js, where I’ve gained some hands-on experience. At the moment, I'm diving deeper into Spring Boot to expand my back-end development skills with the goal of becoming a well-rounded full-stack developer.</p>
+<p>I am a Backend Developer with over 2 years of experience in software, specializing in Java and Spring Boot during the last 9 months. I have experience in front-end and QA, which has given me a broad view of the development lifecycle. Currently, I am focused on building RESTful APIs and developing scalable and high-performance solutions.</p>
 
-- 🌱 I’m currently learning **Backend development with Spring Boot**
-- 💬 Ask me about **Software testing** or  **Spring Boot**
+- 🌱 Currently enhancing my skills in Backend development **Spring Boot**
+- 💬 Ask me about **Java** or **Spring Boot**
 - 📫 How to reach me: **karla.julyana1@gmail.com**
 - ⚡ Fun fact: **I love playing ukulele**
 
