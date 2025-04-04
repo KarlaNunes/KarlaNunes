@@ -5,7 +5,7 @@
 - 🌱 Currently enhancing my skills in Backend development **Spring Boot**
 - 💬 Ask me about **Java** or **Spring Boot**
 - 📫 How to reach me: **karla.julyana1@gmail.com**
-- ⚡ Fun fact: **I love playing ukulele**
+- ⚡ Fun fact: **I learn about music in my free time**
 
 <!--## 🛠 &nbsp;Languages and tools-->
 ### Languages and tools
