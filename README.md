@@ -1,6 +1,9 @@
 ## Hi there! I'm Karla 👋
 
-<p>I am a Backend Developer with over 2 years of experience in software, specializing in Java and Spring Boot during the last 9 months. I have experience in front-end and QA, which has given me a broad view of the development lifecycle. Currently, I am focused on building RESTful APIs and developing scalable and high-performance solutions.</p>
+<p> am a Backend Developer with hands on experience with Java and Spring Boot focused on building scalable and
+high-performance backend solutions. I have experience in front-end and QA, which has given me a broad view of
+the development lifecycle. Currently, I am focused on backend development using microservices architecture, with
+an emphasis on scalability, performance, and maintainability.</p>
 
 - 🌱 Currently enhancing my skills in Backend development **Spring Boot**
 - 💬 Ask me about **Java** or **Spring Boot**
