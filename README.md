@@ -1,6 +1,6 @@
 ## Hi there! I'm Karla 👋
 
-<p> am a Backend Developer with hands on experience with Java and Spring Boot focused on building scalable and
+<p>I_ am a Backend Developer with hands on experience with Java and Spring Boot focused on building scalable and
 high-performance backend solutions. I have experience in front-end and QA, which has given me a broad view of
 the development lifecycle. Currently, I am focused on backend development using microservices architecture, with
 an emphasis on scalability, performance, and maintainability.</p>
